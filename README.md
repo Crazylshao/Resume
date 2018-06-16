@@ -38,6 +38,7 @@
 - web框架：Yii/Thinkphp/Phalapi
 - Cms:zentaoPHP,discuz,微擎
 - 前端框架：vue
+- 消息中间件:rabbitMq
 - 版本管理工具：Git/Gitlab/Jenkins
 - 数据库相关：MySQL/MongoDb/Redis
 - 开发平台：微信应用开发
